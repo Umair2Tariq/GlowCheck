@@ -1,0 +1,17 @@
+{
+  "name": "GlowCheck",
+  "short_name": "GlowCheck",
+  "description": "A mobile-first skincare ingredient analyzer with saved ingredients, routines, and profile tools.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fef7ff",
+  "theme_color": "#e040a0",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
